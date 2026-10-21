@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Hội thảo ReactJS cơ bản",
+    "location": "Hội trường A",
+    "date": "2026-11-05",
+    "capacity": 100,
+    "registered": 85
+  },
+  {
+    "id": 2,
+    "name": "Workshop Git và GitHub",
+    "location": "Phòng 302",
+    "date": "2026-11-12",
+    "capacity": 40,
+    "registered": 40
+  },
+  {
+    "id": 3,
+    "name": "Cuộc thi lập trình PTIT Code",
+    "location": "Phòng máy 1",
+    "date": "2026-11-20",
+    "capacity": 60,
+    "registered": 12
+  },
+  {
+    "id": 4,
+    "name": "Talkshow Định hướng nghề nghiệp",
+    "location": "Hội trường B",
+    "date": "2026-12-01",
+    "capacity": 200,
+    "registered": 150
+  },
+  {
+    "id": 5,
+    "name": "Ngày hội việc làm IT",
+    "location": "Sân trường",
+    "date": "2026-12-10",
+    "capacity": 500,
+    "registered": 500
+  },
+  {
+    "id": 6,
+    "name": "Seminar Bảo mật Web",
+    "location": "Phòng 205",
+    "date": "2027-01-08",
+    "capacity": 50,
+    "registered": 20
+  }
+]
